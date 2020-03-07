@@ -1,0 +1,24 @@
+###功能描述
+一个备忘录
+
+
+###环境依赖
+python3.7.4
+flask1.1.1及其拓展
+
+
+###目录结构描述
+├── Readme.md                   // help
+├── app                         // 应用
+├── config                      // 配置
+├── manager                     // 用于数据库迁移
+├── api                         // API
+│   ├── __init__
+│   ├── api                     // api
+│   ├── authentication          // 认证
+│   ├── errors                  // 错误码处理
+│   ├── models                  // 数据库
+
+###api文档
+https://www.showdoc.cc/702071457969126?page_id=4004379886718290
+
